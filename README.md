@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0048-rotate-image) |
+| [0342-power-of-four](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0342-power-of-four) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 # Linked List
 |  |
@@ -46,3 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0342-power-of-four](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0342-power-of-four) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0342-power-of-four) |

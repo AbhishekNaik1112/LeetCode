@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0075-sort-colors) |
 | [0486-predict-the-winner](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0486-predict-the-winner) |
@@ -32,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3330-modify-the-matrix](https://github.com/AbhishekNaik1112/LeetCode/tree/master/3330-modify-the-matrix) |
 # Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0059-spiral-matrix-ii) |
 # Math
 |  |

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0146-lru-cache) |
 # String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0203-remove-linked-list-elements) |
 # Recursion
 |  |
@@ -54,3 +56,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0342-power-of-four) |
+# Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0146-lru-cache) |
+# Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0146-lru-cache) |

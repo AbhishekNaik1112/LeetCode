@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0908-middle-of-the-linked-list](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 # Recursion
 |  |
 | ------- |
@@ -87,3 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1013-fibonacci-number) |
+# Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0908-middle-of-the-linked-list) |

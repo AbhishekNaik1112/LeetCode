@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0966-binary-subarrays-with-sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1039-find-the-town-judge) |
 # String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0966-binary-subarrays-with-sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 # Array
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0075-sort-colors) |
 | [0486-predict-the-winner](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0486-predict-the-winner) |
 | [0890-lemonade-change](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0890-lemonade-change) |
+| [0966-binary-subarrays-with-sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1039-find-the-town-judge](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1039-find-the-town-judge) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -137,3 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Prefix Sum
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0966-binary-subarrays-with-sum) |

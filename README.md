@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0486-predict-the-winner](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0486-predict-the-winner) |
 | [0890-lemonade-change](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0890-lemonade-change) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3330-modify-the-matrix](https://github.com/AbhishekNaik1112/LeetCode/tree/master/3330-modify-the-matrix) |
 # Matrix
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1013-fibonacci-number) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 # Game Theory
 |  |
 | ------- |

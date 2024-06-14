@@ -38,3 +38,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0048-rotate-image) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+# Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0203-remove-linked-list-elements) |
+# Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0203-remove-linked-list-elements) |

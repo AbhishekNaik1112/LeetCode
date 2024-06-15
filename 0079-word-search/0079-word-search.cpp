@@ -21,7 +21,7 @@ public:
         searchChar(board, word, i - 1, j, row, col, pointer + 1) ||    // U
         searchChar(board, word, i + 1, j, row, col, pointer + 1);     // D
 
-        board[i][j] = temp;
+        board[i][j] = temp; //restore old value for other paths
 
         return found;
     }

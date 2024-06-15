@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0079-word-search) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 # Sliding Window
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0079-word-search) |
 | [0486-predict-the-winner](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0486-predict-the-winner) |
 | [0890-lemonade-change](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0079-word-search) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3330-modify-the-matrix](https://github.com/AbhishekNaik1112/LeetCode/tree/master/3330-modify-the-matrix) |
 # Simulation
@@ -144,3 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+# Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0079-word-search) |

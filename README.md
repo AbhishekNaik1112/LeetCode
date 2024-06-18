@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0079-word-search) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 # Sliding Window
@@ -151,3 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0079-word-search) |
+# Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0020-valid-parentheses) |

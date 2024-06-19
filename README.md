@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0079-word-search) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3312-number-of-changing-keys](https://github.com/AbhishekNaik1112/LeetCode/tree/master/3312-number-of-changing-keys) |
 # Sliding Window
 |  |
 | ------- |

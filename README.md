@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0486-predict-the-winner) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0217-contains-duplicate) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Combinatorics

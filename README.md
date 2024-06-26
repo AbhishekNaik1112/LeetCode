@@ -185,3 +185,4 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0595-big-countries](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0595-big-countries) |
 | [0627-swap-salary](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0627-swap-salary) |
+| [1908-recyclable-and-low-fat-products](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |

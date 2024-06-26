@@ -180,3 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0287-find-the-duplicate-number) |
+# Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0627-swap-salary) |

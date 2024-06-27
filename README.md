@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0217-contains-duplicate) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 # Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0342-power-of-four) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0079-word-search) |
 # Stack
 |  |

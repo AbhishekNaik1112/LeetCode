@@ -1,5 +1,4 @@
 class Solution {
-public:
     void helper(int start, vector<int>& nums, vector<int>& curr,
                 vector<vector<int>>& res) {
         res.push_back(curr);
@@ -9,6 +8,8 @@ public:
             curr.pop_back();
         }
     }
+
+public:
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> res;
         vector<int> curr;

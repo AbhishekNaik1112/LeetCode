@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0053-maximum-subarray) |
 | [1293-three-consecutive-odds](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1293-three-consecutive-odds) |
 ## Linked List
 |  |
@@ -232,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

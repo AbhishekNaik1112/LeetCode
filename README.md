@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0146-lru-cache) |
+| [0237-delete-node-in-a-linked-list](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |

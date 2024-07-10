@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0016-3sum-closest](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1293-three-consecutive-odds](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Two Pointers
 |  |

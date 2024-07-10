@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0868-push-dominoes) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Divide and Conquer
 |  |
@@ -248,12 +249,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0868-push-dominoes](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0868-push-dominoes) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0016-3sum-closest) |
+| [0868-push-dominoes](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0868-push-dominoes) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |

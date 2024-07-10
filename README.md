@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1046-max-consecutive-ones-iii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Linked List
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Stack
 |  |
@@ -276,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

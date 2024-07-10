@@ -13,8 +13,8 @@ public:
                 }
                 i++; // shrink window
             }
-            j++; // expamd window
+            j++; // expand window
         }
-        return abs(i - j);
+        return (j-i);
     }
 };

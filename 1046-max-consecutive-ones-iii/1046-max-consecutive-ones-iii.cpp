@@ -15,6 +15,6 @@ public:
             }
             j++; // expand window
         }
-        return (j-i);
+        return j-i;
     }
 };

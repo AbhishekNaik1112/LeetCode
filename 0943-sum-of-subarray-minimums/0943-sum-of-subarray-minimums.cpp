@@ -1,21 +1,33 @@
 class Solution {
 public:
     int sumSubarrayMins(vector<int>& arr) {
+  const int MOD = 1e9 + 7;
         int n = arr.size();
-        long long ans = 0;
-        stack<int> st;
-        int mod = 1e9 + 7;
-        for (int i = 0; i <= n; i++) {
-            while (st.size() and (i == n or arr[st.top()] > arr[i])) {
-                int j = st.top();
-                st.pop();
-                int k = st.empty() ? -1 : st.top();
-                ans += (long long)arr[j] * (i - j) * (j - k);
+        vector<int> left(n), right(n);
+        stack<int> s;
+        // Calculate left: the distance to the previous less element
+        for (int i = 0; i < n; ++i) {
+            while (!s.empty() && arr[s.top()] > arr[i]) {
+                s.pop();
             }
-            st.push(i);
+            left[i] = s.empty() ? i + 1 : i - s.top();
+            s.push(i);
         }
-        return ans % mod;
+        // Clear stack for reuse
+        while (!s.empty()) s.pop();
+        // Calculate right: the distance to the next less or equal element
+        for (int i = n - 1; i >= 0; --i) {
+            while (!s.empty() && arr[s.top()] >= arr[i]) {
+                s.pop();
+            }
+            right[i] = s.empty() ? n - i : s.top() - i;
+            s.push(i);
+        }
+        // Calculate result using the precomputed left and right arrays
+        long long result = 0;
+        for (int i = 0; i < n; ++i) {
+            result = (result + (long long)arr[i] * left[i] * right[i]) % MOD;
+        }
+        return (int)result;
     }
 };
-
-

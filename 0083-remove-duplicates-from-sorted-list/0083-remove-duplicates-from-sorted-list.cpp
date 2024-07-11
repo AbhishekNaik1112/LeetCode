@@ -11,15 +11,15 @@
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-        if(!head) return nullptr;
+        if(!head) return nullptr;  //edge case where list is empty
 
-        ListNode* curr = head;
+        ListNode* curr = head; //curr ptr
 
-        while(curr->next){
-            if(curr->val==curr->next->val){
-                curr->next=curr->next->next;
+        while(curr->next){  //till next value exists
+            if(curr->val==curr->next->val){ //dupe condition
+                curr->next=curr->next->next; //skip dupe
             }else{
-                curr=curr->next;
+                curr=curr->next; //no dupes
             }
         }
         return head;

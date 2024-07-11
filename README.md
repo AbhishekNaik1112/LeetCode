@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 ## Hash Table
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

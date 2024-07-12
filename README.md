@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0943-sum-of-subarray-minimums](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1331-path-with-maximum-gold](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2664-maximize-greatness-of-an-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 ## Linked List
@@ -308,8 +309,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0052-n-queens-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0090-subsets-ii) |
+| [1331-path-with-maximum-gold](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1331-path-with-maximum-gold) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [1331-path-with-maximum-gold](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1331-path-with-maximum-gold) |
 <!---LeetCode Topics End-->

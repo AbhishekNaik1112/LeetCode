@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2664-maximize-greatness-of-an-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -264,12 +265,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0868-push-dominoes](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0868-push-dominoes) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2664-maximize-greatness-of-an-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0016-3sum-closest) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2664-maximize-greatness-of-an-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [2664-maximize-greatness-of-an-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 <!---LeetCode Topics End-->

@@ -302,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2664-maximize-greatness-of-an-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->

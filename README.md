@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0605-can-place-flowers) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1039-find-the-town-judge](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1331-path-with-maximum-gold](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1331-path-with-maximum-gold) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0146-lru-cache) |
+| [1039-find-the-town-judge](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1039-find-the-town-judge) |
 ## Design
 |  |
 | ------- |
@@ -324,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1331-path-with-maximum-gold](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1331-path-with-maximum-gold) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->

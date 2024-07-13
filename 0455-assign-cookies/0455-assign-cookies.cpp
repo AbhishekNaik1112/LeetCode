@@ -12,8 +12,8 @@ public:
 
         int ct = 0;
 
-        while (i < ss && j < gs) {
-            if (s[i] > g[j]) {
+        while (i < gs && j < ss) {
+            if (s[j]>=g[i]) {
                 ct++;
                 i++;
             }

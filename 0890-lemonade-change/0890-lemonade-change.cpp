@@ -4,20 +4,20 @@ public:
         int five = 0;
         int ten = 0;
 
-        for (int i = 0; i < bills.size(); ++i) {
-            if (bills[i] == 5) {
+        for (int bill : bills) {
+            if (bill == 5)
                 five++;
-            } else if (bills[i] == 10) {
+            else if (bill == 10) {
                 if (five > 0) {
-                    ten++;
                     five--;
+                    ten++;
                 } else {
                     return false;
                 }
-            } else if (bills[i] == 20) {
-                if (ten > 0 && five > 0) {
-                    ten--;
+            } else if (bill == 20) {
+                if (five > 0 && ten > 0) {
                     five--;
+                    ten--;
                 } else if (five > 2) {
                     five -= 3;
                 } else {

@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0868-push-dominoes](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0868-push-dominoes) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Stack
 |  |
@@ -299,10 +301,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Math
 |  |
 | ------- |

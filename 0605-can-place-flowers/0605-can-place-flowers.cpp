@@ -12,7 +12,8 @@ public:
                 if (checkLeft && checkRight) {
                     flowerbed[i] = 1;
                     count++;
-                    if (count >= n) return true;
+                    if (count >= n)
+                        return true;
                 }
             }
         }

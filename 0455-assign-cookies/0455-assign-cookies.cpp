@@ -13,12 +13,12 @@ public:
         int ct = 0;
 
         while (i < gs && j < ss) {
-            if (g[i] >= s[j]) {
+            if (s[j] >= g[i]) {
                 ct++;
                 i++;
 
-                j++;
             }
+                j++;
         }
         return ct;
     }

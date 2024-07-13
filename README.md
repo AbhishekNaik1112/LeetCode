@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0119-pascals-triangle-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0455-assign-cookies](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1039-find-the-town-judge](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0455-assign-cookies](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0890-lemonade-change) |
 | [2664-maximize-greatness-of-an-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 ## Backtracking
 |  |

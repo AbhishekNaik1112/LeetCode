@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0455-assign-cookies](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0605-can-place-flowers) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0016-3sum-closest) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0455-assign-cookies](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0455-assign-cookies) |
 | [0868-push-dominoes](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0868-push-dominoes) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2664-maximize-greatness-of-an-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0016-3sum-closest) |
+| [0455-assign-cookies](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0455-assign-cookies) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2664-maximize-greatness-of-an-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 ## Binary Search
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0605-can-place-flowers) |
 | [2664-maximize-greatness-of-an-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 ## Backtracking

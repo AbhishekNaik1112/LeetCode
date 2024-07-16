@@ -1,12 +1,15 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        if(s1.size()>s2.size()) return false;
-        sort(s1.begin(), s1.end());
-        for(int i=0; i<=s2.size()-s1.size(); i++){
-            string s = s2.substr(i, s1.size());
-            sort(s.begin(), s.end());
-            if(s1 == s) return true;
+        vector<int> curr(26), track(26);
+        for (char c : s1)
+            track[c - 'a']++;
+        for (int i = 0; i < s2.size(); i++) {
+            curr[s2[i] - 'a']++;
+            if (i >= s1.size())
+                curr[s2[i - s1.size()] - 'a']--;
+            if (track == curr)
+                return true;
         }
         return false;
     }

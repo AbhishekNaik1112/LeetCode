@@ -14,9 +14,9 @@ public:
         ans.push_back("");
 
         for (char digit : digits) {
-            const string& letters = phone[digit];
+            const string letters = phone[digit];
             vector<string> temp;
-            for (const string& x : ans) {
+            for (const string x : ans) {
                 for (char letter : letters) {
                     temp.push_back(x + letter);
                 }

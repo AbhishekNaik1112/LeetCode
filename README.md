@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0146-lru-cache](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0146-lru-cache) |
+| [0567-permutation-in-string](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0567-permutation-in-string) |
 | [1039-find-the-town-judge](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1039-find-the-town-judge) |
 ## Design
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0567-permutation-in-string](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0868-push-dominoes) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0016-3sum-closest) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0455-assign-cookies](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0868-push-dominoes) |
 | [0985-bag-of-tokens](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0985-bag-of-tokens) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum

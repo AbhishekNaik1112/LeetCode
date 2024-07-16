@@ -21,7 +21,7 @@ public:
                     temp.push_back(x + letter);
                 }
             }
-            ans = move(temp);
+            ans = move(temp," ");
         }
 
         return ans;

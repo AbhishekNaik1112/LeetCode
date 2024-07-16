@@ -19,3 +19,25 @@ public:
         return res; // return max score
     }
 };
+
+// -----------
+// |Recursive|
+// -----------
+
+// class Solution {
+// public:
+//     int solve(vector<int>& tokens, int power,int index){
+//         if(index >= tokens.size()) return 0;
+
+//         int score = INT_MIN;
+//         if(power >= tokens[index]) score = 1 + solve(tokens, power - tokens[index], index + 1);
+//         score = max(score, solve(tokens, power, index + 1));
+
+//         if(score != 0) score = max(score, solve(tokens, power + tokens[index], index + 1) - 1);
+//         return score;
+//     }
+//     int bagOfTokensScore(vector<int>& tokens, int power) {
+//         sort(tokens.begin(), tokens.end(), greater<int>());
+//         return solve(tokens, power, 0);
+//     }
+// };

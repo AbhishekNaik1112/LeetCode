@@ -7,6 +7,7 @@ public:
         };
 
         vector<string> ans;
+        vector<string> temp;
 
         if (digits.empty()) {
             return ans;
@@ -15,7 +16,6 @@ public:
 
         for (char digit : digits) {
             const string letters = phone[digit];
-            vector<string> temp;
             for (const string x : ans) {
                 for (char letter : letters) {
                     temp.push_back(x + letter);

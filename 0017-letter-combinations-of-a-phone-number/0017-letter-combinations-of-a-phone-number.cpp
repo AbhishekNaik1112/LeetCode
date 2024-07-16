@@ -14,13 +14,13 @@ public:
 
         for (char digit : digits) {
             const string& letters = phone[digit];
-            vector<string> new_combinations;
-            for (const string& combination : ans) {
+            vector<string> temp;
+            for (const string& x : ans) {
                 for (char letter : letters) {
-                    new_combinations.push_back(combination + letter);
+                    temp.push_back(x + letter);
                 }
             }
-            ans = move(new_combinations);
+            ans = move(temp);
         }
 
         return ans;

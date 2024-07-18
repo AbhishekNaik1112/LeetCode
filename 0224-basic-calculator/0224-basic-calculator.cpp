@@ -1,6 +1,6 @@
 class Solution {
 public:
-    long long calculate(string s) {
+    int calculate(string s) {
         stack <long long> nums, ops;
         long long num = 0;
         long long res = 0;

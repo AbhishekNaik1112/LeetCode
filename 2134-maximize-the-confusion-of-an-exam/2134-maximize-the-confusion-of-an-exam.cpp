@@ -9,13 +9,15 @@ class Solution {
         for(int j=0;j<answerKey.size();j++){
             if(answerKey[j]!=ch) ct++;
             while(ct>k){
-                if(answerKey[i]!=ch) ct--;
+                if(answerKey[i]!=ch) 
+                    ct--;
                 i++;
+            }
                 ans = max(ans,(j-i+1));
             }
             return ans;
         }
-    }
+    
 public:
     int maxConsecutiveAnswers(string answerKey, int k) {
         int char1 = maxChars(answerKey,k,'T');

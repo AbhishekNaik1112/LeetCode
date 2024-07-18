@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0455-assign-cookies](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0890-lemonade-change) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Greedy
 |  |
 | ------- |

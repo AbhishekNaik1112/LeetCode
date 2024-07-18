@@ -22,7 +22,8 @@ public:
                 }
                 if (c == ')' && ops.size()) {
                     res = ops.top() * res + nums.top();
-                    ops.pop(); nums.pop();
+                    ops.pop(); 
+                    nums.pop();
                 }
             }
         }

@@ -12,11 +12,11 @@ public:
             if (!op.count(s)) {
                 stack.push(stoi(s));
             } else {
-                int op1 = stack.top();
+                int n1 = stack.top();
                 stack.pop();
-                int op2 = stack.top();
+                int n2 = stack.top();
                 stack.pop();
-                stack.push(op[s](op2, op1));
+                stack.push(op[s](n2, n1));
             }
         }
         return stack.top();

@@ -16,12 +16,10 @@ public:
         ListNode* curr = head; //curr ptr
 
         while(curr->next){  //till next value exists
-            if(curr->val==curr->next->val){ //dupe condition
-                curr->next=curr->next->next; //skip dupe
-            }else{
-                curr=curr->next; //no dupes
-            }
+            if(curr->val==curr->next->val) curr->next=curr->next->next; //dupe condition &  
+                                                                        //skip dupe
+            else curr=curr->next; //no dupes
         }
         return head;
     }
-};
+};//dupe condition

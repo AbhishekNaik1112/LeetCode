@@ -9,13 +9,14 @@ public:
                 bool left = (i == 0) || (flowerbed[i - 1] == 0);
                 bool right = (i == size - 1) || (flowerbed[i + 1] == 0);
 
-                if(left && right){
-                    flowerbed[i]=1;
+                if (left && right) {
+                    flowerbed[i] = 1;
                     ct++;
-                    if(ct>=n) return true;
+                    if (ct >= n)
+                        return true;
                 }
             }
         }
-        return ct>=n;
+        return ct >= n;
     }
 };

@@ -5,7 +5,7 @@ public:
         for (auto& it : trust)
             ct[it[0]]--, ct[it[1]]++;
         for (int i = 1; i <= n; i++)
-            if (ct[i] == 1)
+            if (ct[i] == n-1)
                 return i;
         return -1;
     }

@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0890-lemonade-change) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0016-3sum-closest) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0189-rotate-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0868-push-dominoes) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0224-basic-calculator) |
 ## Greedy
 |  |

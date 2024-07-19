@@ -6,19 +6,16 @@ public:
 
         int gs = g.size();
         int ss = s.size();
-
+        int ct = 0;
         int i = 0;
         int j = 0;
-
-        int ct = 0;
 
         while (i < gs && j < ss) {
             if (s[j] >= g[i]) {
                 ct++;
                 i++;
-
             }
-                j++;
+            j++;
         }
         return ct;
     }

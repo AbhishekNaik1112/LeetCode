@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0890-lemonade-change](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0985-bag-of-tokens](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0868-push-dominoes) |
 | [0985-bag-of-tokens](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2664-maximize-greatness-of-an-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 ## Sorting
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0016-3sum-closest) |
 | [0455-assign-cookies](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0455-assign-cookies) |
 | [0985-bag-of-tokens](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2664-maximize-greatness-of-an-array](https://github.com/AbhishekNaik1112/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 ## Binary Search

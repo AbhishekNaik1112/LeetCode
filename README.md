@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0016-3sum-closest) |
+| [0046-permutations](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0090-subsets-ii) |
 | [1331-path-with-maximum-gold](https://github.com/AbhishekNaik1112/LeetCode/tree/master/1331-path-with-maximum-gold) |

@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0022-generate-parentheses) |
 | [0224-basic-calculator](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0224-basic-calculator) |
 | [0567-permutation-in-string](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0868-push-dominoes) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0868-push-dominoes](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0868-push-dominoes) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/AbhishekNaik1112/LeetCode/tree/master/0090-subsets-ii) |
